@@ -1,0 +1,1656 @@
+[
+    {
+        "id": "C001",
+        "nome": "Pão de Forma",
+        "tipo": "Pão",
+        "texto_efeito": "Uma classe de pão tão básica que chega a ser suspeita. Provavelmente está planejando uma herança múltipla pelas suas costas.",
+        "kc_associado": ["KC_Classe"]
+    },
+    {
+        "id": "C002",
+        "nome": "Pão de Forma",
+        "tipo": "Pão",
+        "texto_efeito": "Uma classe de pão tão básica que chega a ser suspeita. Provavelmente está planejando uma herança múltipla pelas suas costas.",
+        "kc_associado": ["KC_Classe"]
+    },
+    {
+        "id": "C003",
+        "nome": "Pão de Forma",
+        "tipo": "Pão",
+        "texto_efeito": "Uma classe de pão tão básica que chega a ser suspeita. Provavelmente está planejando uma herança múltipla pelas suas costas.",
+        "kc_associado": ["KC_Classe"]
+    },
+    {
+        "id": "C004",
+        "nome": "Pão de Forma",
+        "tipo": "Pão",
+        "texto_efeito": "Uma classe de pão tão básica que chega a ser suspeita. Provavelmente está planejando uma herança múltipla pelas suas costas.",
+        "kc_associado": ["KC_Classe"]
+    },
+    {
+        "id": "C005",
+        "nome": "Pão Integral",
+        "tipo": "Pão",
+        "texto_efeito": "Feito com 100% de grãos e 0% de tolerância a código sujo. Ele julga silenciosamente suas variáveis mal nomeadas.",
+        "kc_associado": ["KC_Linter"]
+    },
+    {
+        "id": "C006",
+        "nome": "Pão Integral",
+        "tipo": "Pão",
+        "texto_efeito": "Feito com 100% de grãos e 0% de tolerância a código sujo. Ele julga silenciosamente suas variáveis mal nomeadas.",
+        "kc_associado": ["KC_Linter"]
+    },
+    {
+        "id": "C007",
+        "nome": "Pão Brioche",
+        "tipo": "Pão",
+        "texto_efeito": "Este pão é um framework tão metido que se recusa a ser tocado por qualquer função que não seja \"premium\".",
+        "kc_associado": ["KC_CodigoLegado"]
+    },
+    {
+        "id": "C008",
+        "nome": "Pão Brioche",
+        "tipo": "Pão",
+        "texto_efeito": "Este pão é um framework tão metido que se recusa a ser tocado por qualquer função que não seja \"premium\".",
+        "kc_associado": ["KC_CodigoLegado"]
+    },
+    {
+        "id": "C009",
+        "nome": "Pão Brioche",
+        "tipo": "Pão",
+        "texto_efeito": "Este pão é um framework tão metido que se recusa a ser tocado por qualquer função que não seja \"premium\".",
+        "kc_associado": ["KC_CodigoLegado"]
+    },
+    {
+        "id": "C010",
+        "nome": "Pão de Centeio",
+        "tipo": "Pão",
+        "texto_efeito": "Um pão pessimista que já aceitou seu destino de se tornar um log de erros. Ele suspira dramaticamente a cada warning.",
+        "kc_associado": ["KC_ErrorHandling"]
+    },
+    {
+        "id": "C011",
+        "nome": "Pão de Centeio",
+        "tipo": "Pão",
+        "texto_efeito": "Um pão pessimista que já aceitou seu destino de se tornar um log de erros. Ele suspira dramaticamente a cada warning.",
+        "kc_associado": ["KC_ErrorHandling"]
+    },
+    {
+        "id": "C012",
+        "nome": "Pão de Centeio",
+        "tipo": "Pão",
+        "texto_efeito": "Um pão pessimista que já aceitou seu destino de se tornar um log de erros. Ele suspira dramaticamente a cada warning.",
+        "kc_associado": ["KC_ErrorHandling"]
+    },
+    {
+        "id": "C013",
+        "nome": "Baguete",
+        "tipo": "Pão",
+        "texto_efeito": "Uma string de pão tão longa que pode ser usada como arma em duelos de merge conflict. (Não recomendado).",
+        "kc_associado": ["KC_String", "KC_VersionControl"]
+    },
+    {
+        "id": "C014",
+        "nome": "Baguete",
+        "tipo": "Pão",
+        "texto_efeito": "Uma string de pão tão longa que pode ser usada como arma em duelos de merge conflict. (Não recomendado).",
+        "kc_associado": ["KC_String", "KC_VersionControl"]
+    },
+    {
+        "id": "C015",
+        "nome": "Pão Sírio",
+        "tipo": "Pão",
+        "texto_efeito": "Um portal para a dimensão do backend. Se olhar para dentro, verá todos os seus bugs de servidor olhando de volta.",
+        "kc_associado": ["KC_Backend"]
+    },
+    {
+        "id": "C016",
+        "nome": "Pão Sírio",
+        "tipo": "Pão",
+        "texto_efeito": "Um portal para a dimensão do backend. Se olhar para dentro, verá todos os seus bugs de servidor olhando de volta.",
+        "kc_associado": ["KC_Backend"]
+    },
+    {
+        "id": "C017",
+        "nome": "Ciabatta",
+        "tipo": "Pão",
+        "texto_efeito": "Cheio de buracos, assim como sua lógica de programação. Um deles contém um ninja especialista em SQL Injection.",
+        "kc_associado": ["KC_InjecaoSQL", "KC_Seguranca"]
+    },
+    {
+        "id": "C018",
+        "nome": "Ciabatta",
+        "tipo": "Pão",
+        "texto_efeito": "Cheio de buracos, assim como sua lógica de programação. Um deles contém um ninja especialista em SQL Injection.",
+        "kc_associado": ["KC_InjecaoSQL", "KC_Seguranca"]
+    },
+    {
+        "id": "C019",
+        "nome": "Pão de Leite",
+        "tipo": "Pão",
+        "texto_efeito": "Tão macio e inocente que acredita em unicórnios e em código que funciona na primeira compilação.",
+        "kc_associado": ["KC_HelloWorld"]
+    },
+    {
+        "id": "C020",
+        "nome": "Pão de Leite",
+        "tipo": "Pão",
+        "texto_efeito": "Tão macio e inocente que acredita em unicórnios e em código que funciona na primeira compilação.",
+        "kc_associado": ["KC_HelloWorld"]
+    },
+    {
+        "id": "C021",
+        "nome": "Croissant",
+        "tipo": "Pão",
+        "texto_efeito": "Suas camadas representam a complexidade de um nested loop infinito. É elegante, mas perigoso.",
+        "kc_associado": ["KC_LoopInfinito", "KC_Loop"]
+    },
+    {
+        "id": "C022",
+        "nome": "Croissant",
+        "tipo": "Pão",
+        "texto_efeito": "Suas camadas representam a complexidade de um nested loop infinito. É elegante, mas perigoso.",
+        "kc_associado": ["KC_LoopInfinito", "KC_Loop"]
+    },
+    {
+        "id": "C023",
+        "nome": "Pão de Queijo",
+        "tipo": "Pão",
+        "texto_efeito": "A base perfeita para qualquer código. Garante que tudo rode de forma isolada e deliciosa, sem conflitos de dependência. É o \"funciona na minha máquina\" que finalmente funciona em todas as máquinas.",
+        "kc_associado": ["KC_Container", "KC_Ambiente"]
+    },
+    {
+        "id": "C024",
+        "nome": "Pão de Queijo",
+        "tipo": "Pão",
+        "texto_efeito": "A base perfeita para qualquer código. Garante que tudo rode de forma isolada e deliciosa, sem conflitos de dependência. É o \"funciona na minha máquina\" que finalmente funciona em todas as máquinas.",
+        "kc_associado": ["KC_Container", "KC_Ambiente"]
+    },
+    {
+        "id": "C025",
+        "nome": "Pão Australiano",
+        "tipo": "Pão",
+        "texto_efeito": "Doce, escuro e provavelmente parente de um coala full-stack furioso. Manuseie com cuidado.",
+        "kc_associado": ["KC_Fullstack"]
+    },
+    {
+        "id": "C026",
+        "nome": "Pão Australiano",
+        "tipo": "Pão",
+        "texto_efeito": "Doce, escuro e provavelmente parente de um coala full-stack furioso. Manuseie com cuidado.",
+        "kc_associado": ["KC_Fullstack"]
+    },
+    {
+        "id": "C027",
+        "nome": "Focaccia",
+        "tipo": "Pão",
+        "texto_efeito": "Uma placa-mãe comestível. O alecrim são os circuitos e as azeitonas são os processadores. Cuidado com a sobrecarga.",
+        "kc_associado": ["KC_Hardware"]
+    },
+    {
+        "id": "C028",
+        "nome": "Focaccia",
+        "tipo": "Pão",
+        "texto_efeito": "Uma placa-mãe comestível. O alecrim são os circuitos e as azeitonas são os processadores. Cuidado com a sobrecarga.",
+        "kc_associado": ["KC_Hardware"]
+    },
+    {
+        "id": "C029",
+        "nome": "Pão de Batata",
+        "tipo": "Pão",
+        "texto_efeito": "Um pão que secretamente deseja ser um chip de memória RAM. Vive uma crise existencial sobre sua capacidade.",
+        "kc_associado": ["KC_MemoriaRAM"]
+    },
+    {
+        "id": "C030",
+        "nome": "Pão de Batata",
+        "tipo": "Pão",
+        "texto_efeito": "Um pão que secretamente deseja ser um chip de memória RAM. Vive uma crise existencial sobre sua capacidade.",
+        "kc_associado": ["KC_MemoriaRAM"]
+    },
+    {
+        "id": "C031",
+        "nome": "Pão sem Glúten",
+        "tipo": "Pão",
+        "texto_efeito": "Tenta tanto passar na validação que chega a ser comovente. Dê a ele um tapinha de incentivo",
+        "kc_associado": ["KC_Validacao"]
+    },
+    {
+        "id": "C032",
+        "nome": "Pão sem Glúten",
+        "tipo": "Pão",
+        "texto_efeito": "Tenta tanto passar na validação que chega a ser comovente. Dê a ele um tapinha de incentivo",
+        "kc_associado": ["KC_Validacao"]
+    },
+    {
+        "id": "C033",
+        "nome": "Hambúrguer",
+        "tipo": "Proteína",
+        "texto_efeito": "A função principal, achatada por um meteoro de requests. Agora busca vingança contra tudo que for assíncrono.",
+        "kc_associado": ["KC_FuncaoPrincipal", "KC_Async"]
+    },
+    {
+        "id": "C034",
+        "nome": "Hambúrguer",
+        "tipo": "Proteína",
+        "texto_efeito": "A função principal, achatada por um meteoro de requests. Agora busca vingança contra tudo que for assíncrono.",
+        "kc_associado": ["KC_FuncaoPrincipal", "KC_Async"]
+    },
+    {
+        "id": "C035",
+        "nome": "Frango Grelhado",
+        "tipo": "Proteína",
+        "texto_efeito": "Um código otimizado que correu tão rápido que viajou no tempo por acidente. Agora ele tem medo de borboletas e de loops.",
+        "kc_associado": ["KC_Otimizacao", "KC_Loop"]
+    },
+    {
+        "id": "C036",
+        "nome": "Frango Grelhado",
+        "tipo": "Proteína",
+        "texto_efeito": "Um código otimizado que correu tão rápido que viajou no tempo por acidente. Agora ele tem medo de borboletas e de loops.",
+        "kc_associado": ["KC_Otimizacao", "KC_Loop"]
+    },
+    {
+        "id": "C037",
+        "nome": "Ovo Frito",
+        "tipo": "Proteína",
+        "texto_efeito": "Cuidado com os easter eggs escondidos neste código. Um deles invoca um pato gigante que rouba suas variáveis.",
+        "kc_associado": ["KC_VariavelEscopo"]
+    },
+    {
+        "id": "C038",
+        "nome": "Ovo Frito",
+        "tipo": "Proteína",
+        "texto_efeito": "Cuidado com os easter eggs escondidos neste código. Um deles invoca um pato gigante que rouba suas variáveis.",
+        "kc_associado": ["KC_VariavelEscopo"]
+    },
+    {
+        "id": "C039",
+        "nome": "Tofu",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma API tão genérica que retorna \"undefined\" para tudo. É filosoficamente profundo, mas funcionalmente inútil.",
+        "kc_associado": ["KC_API", "KC_Undefined"]
+    },
+    {
+        "id": "C040",
+        "nome": "Tofu",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma API tão genérica que retorna \"undefined\" para tudo. É filosoficamente profundo, mas funcionalmente inútil.",
+        "kc_associado": ["KC_API", "KC_Undefined"]
+    },
+    {
+        "id": "C041",
+        "nome": "Peito de Peru",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma biblioteca de funções leves, mas que foi depreciada há 5 anos. Usá-la é um ato de pura e perigosa nostalgia.",
+        "kc_associado": ["KC_Depreciacao"]
+    },
+    {
+        "id": "C042",
+        "nome": "Peito de Peru",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma biblioteca de funções leves, mas que foi depreciada há 5 anos. Usá-la é um ato de pura e perigosa nostalgia.",
+        "kc_associado": ["KC_Depreciacao"]
+    },
+    {
+        "id": "C043",
+        "nome": "Rosbife",
+        "tipo": "Proteína",
+        "texto_efeito": "Um código legado tão antigo que é mantido por um mago em uma torre. Ele só aceita commits feitos por pombo-correio.",
+        "kc_associado": ["KC_CodigoLegado"]
+    },
+    {
+        "id": "C044",
+        "nome": "Rosbife",
+        "tipo": "Proteína",
+        "texto_efeito": "Um código legado tão antigo que é mantido por um mago em uma torre. Ele só aceita commits feitos por pombo-correio.",
+        "kc_associado": ["KC_CodigoLegado"]
+    },
+    {
+        "id": "C045",
+        "nome": "Salame",
+        "tipo": "Proteína",
+        "texto_efeito": "Um array de sabores. Tentar acessar um índice que não existe ([-1]) faz com que o salame chame a sua mãe para reclamar.",
+        "kc_associado": ["KC_ArrayIndex", "KC_Array"]
+    },
+    {
+        "id": "C046",
+        "nome": "Salame",
+        "tipo": "Proteína",
+        "texto_efeito": "Um array de sabores. Tentar acessar um índice que não existe ([-1]) faz com que o salame chame a sua mãe para reclamar.",
+        "kc_associado": ["KC_ArrayIndex", "KC_Array"]
+    },
+    {
+        "id": "C047",
+        "nome": "Bacon",
+        "tipo": "Proteína",
+        "texto_efeito": "Adiciona aquele boost de performance que todo sistema precisa, mas com o efeito colateral de deixar tudo engordurado e difícil de debuggar.",
+        "kc_associado": ["KC_Performance", "KC_Debug"]
+    },
+    {
+        "id": "C048",
+        "nome": "Bacon",
+        "tipo": "Proteína",
+        "texto_efeito": "Adiciona aquele boost de performance que todo sistema precisa, mas com o efeito colateral de deixar tudo engordurado e difícil de debuggar.",
+        "kc_associado": ["KC_Performance", "KC_Debug"]
+    },
+    {
+        "id": "C049",
+        "nome": "Atum",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma pasta de dados tão mal criptografada que a senha é \"senha123\". Um hamster consegue hackeá-la em 5 segundos.",
+        "kc_associado": ["KC_Criptografia", "KC_Seguranca"]
+    },
+    {
+        "id": "C050",
+        "nome": "Atum",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma pasta de dados tão mal criptografada que a senha é \"senha123\". Um hamster consegue hackeá-la em 5 segundos.",
+        "kc_associado": ["KC_Criptografia", "KC_Seguranca"]
+    },
+    {
+        "id": "C051",
+        "nome": "Linguiça",
+        "tipo": "Proteína",
+        "texto_efeito": "Um processo contínuo que, se interrompido, se divide em várias linguiças menores e raivosas que rodam em background.",
+        "kc_associado": ["KC_Processos"]
+    },
+    {
+        "id": "C052",
+        "nome": "Linguiça",
+        "tipo": "Proteína",
+        "texto_efeito": "Um processo contínuo que, se interrompido, se divide em várias linguiças menores e raivosas que rodam em background.",
+        "kc_associado": ["KC_Processos"]
+    },
+    {
+        "id": "C053",
+        "nome": "Carne Desfiada",
+        "tipo": "Proteína",
+        "texto_efeito": "O resultado de um multithreading que deu errado. Agora são mil fios de carne, cada um com uma opinião diferente sobre como a função deveria ter sido escrita.",
+        "kc_associado": ["KC_Multithreading"]
+    },
+    {
+        "id": "C054",
+        "nome": "Carne Desfiada",
+        "tipo": "Proteína",
+        "texto_efeito": "O resultado de um multithreading que deu errado. Agora são mil fios de carne, cada um com uma opinião diferente sobre como a função deveria ter sido escrita.",
+        "kc_associado": ["KC_Multithreading"]
+    },
+    {
+        "id": "C055",
+        "nome": "Presunto",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma variável clássica, mas que sofre de vazamento de memória. Quanto mais você a usa, mais ela se esquece de quem é.",
+        "kc_associado": ["KC_MemoryLeak"]
+    },
+    {
+        "id": "C056",
+        "nome": "Presunto",
+        "tipo": "Proteína",
+        "texto_efeito": "Uma variável clássica, mas que sofre de vazamento de memória. Quanto mais você a usa, mais ela se esquece de quem é.",
+        "kc_associado": ["KC_MemoryLeak"]
+    },
+    {
+        "id": "C057",
+        "nome": "Almôndega",
+        "tipo": "Proteína",
+        "texto_efeito": "Um objeto que encapsula dados, métodos e uma quantidade preocupante de raiva. Não chame seus métodos em voz alta.",
+        "kc_associado": ["KC_Encapsulamento"]
+    },
+    {
+        "id": "C058",
+        "nome": "Almôndega",
+        "tipo": "Proteína",
+        "texto_efeito": "Um objeto que encapsula dados, métodos e uma quantidade preocupante de raiva. Não chame seus métodos em voz alta.",
+        "kc_associado": ["KC_Encapsulamento"]
+    },
+    {
+        "id": "C059",
+        "nome": "Almôndega",
+        "tipo": "Proteína",
+        "texto_efeito": "Um objeto que encapsula dados, métodos e uma quantidade preocupante de raiva. Não chame seus métodos em voz alta.",
+        "kc_associado": ["KC_Encapsulamento"]
+    },
+    {
+        "id": "C060",
+        "nome": "Mortadela",
+        "tipo": "Proteína",
+        "texto_efeito": "A variável global que todo mundo ama, mas que, se alterada, quebra o código em 17 lugares não relacionados.",
+        "kc_associado": ["KC_VariavelGlobal"]
+    },
+    {
+        "id": "C061",
+        "nome": "Mortadela",
+        "tipo": "Proteína",
+        "texto_efeito": "A variável global que todo mundo ama, mas que, se alterada, quebra o código em 17 lugares não relacionados.",
+        "kc_associado": ["KC_VariavelGlobal"]
+    },
+    {
+        "id": "C062",
+        "nome": "Alface",
+        "tipo": "Vegetal",
+        "texto_efeito": "Adiciona camadas de complexidade ao seu código. Se você olhar bem de perto para uma folha, verá seu próprio reflexo, só que com um bigode. É perturbador.",
+        "kc_associado": ["KC_Abstracao", "KC_Complexidade"]
+    },
+    {
+        "id": "C063",
+        "nome": "Alface",
+        "tipo": "Vegetal",
+        "texto_efeito": "Adiciona camadas de complexidade ao seu código. Se você olhar bem de perto para uma folha, verá seu próprio reflexo, só que com um bigode. É perturbador.",
+        "kc_associado": ["KC_Abstracao", "KC_Complexidade"]
+    },
+    {
+        "id": "C064",
+        "nome": "Alface",
+        "tipo": "Vegetal",
+        "texto_efeito": "Adiciona camadas de complexidade ao seu código. Se você olhar bem de perto para uma folha, verá seu próprio reflexo, só que com um bigode. É perturbador.",
+        "kc_associado": ["KC_Abstracao", "KC_Complexidade"]
+    },
+    {
+        "id": "C065",
+        "nome": "Tomate",
+        "tipo": "Vegetal",
+        "texto_efeito": "Se o código está vermelho, pode não ser um tomate... pode ser um bug. Este tomate, no entanto, é um bug disfarçado de tomate. Cuidado.",
+        "kc_associado": ["KC_Bug"]
+    },
+    {
+        "id": "C066",
+        "nome": "Tomate",
+        "tipo": "Vegetal",
+        "texto_efeito": "Se o código está vermelho, pode não ser um tomate... pode ser um bug. Este tomate, no entanto, é um bug disfarçado de tomate. Cuidado.",
+        "kc_associado": ["KC_Bug"]
+    },
+    {
+        "id": "C067",
+        "nome": "Cebola",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um vegetal que adiciona tantas camadas quanto uma rede neural e te faz chorar da mesma forma quando você tenta depurá-la.",
+        "kc_associado": ["KC_Abstracao", "KC_Complexidade"]
+    },
+    {
+        "id": "C068",
+        "nome": "Cebola",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um vegetal que adiciona tantas camadas quanto uma rede neural e te faz chorar da mesma forma quando você tenta depurá-la.",
+        "kc_associado": ["KC_Abstracao", "KC_Complexidade"]
+    },
+    {
+        "id": "C069",
+        "nome": "Cebola",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um vegetal que adiciona tantas camadas quanto uma rede neural e te faz chorar da mesma forma quando você tenta depurá-la.",
+        "kc_associado": ["KC_Abstracao", "KC_Complexidade"]
+    },
+    {
+        "id": "C070",
+        "nome": "Rúcula",
+        "tipo": "Vegetal",
+        "texto_efeito": "Uma assertiva amarga. Se a condição for falsa, a rúcula se auto-destrói em uma pequena e dramática explosão de sabor.",
+        "kc_associado": ["KC_Assert"]
+    },
+    {
+        "id": "C071",
+        "nome": "Rúcula",
+        "tipo": "Vegetal",
+        "texto_efeito": "Uma assertiva amarga. Se a condição for falsa, a rúcula se auto-destrói em uma pequena e dramática explosão de sabor.",
+        "kc_associado": ["KC_Assert"]
+    },
+    {
+        "id": "C072",
+        "nome": "Pimentão",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um parâmetro que vem em três cores: verde (funciona), amarelo (funciona, mas com warnings) e vermelho (não funciona e ateia fogo no seu PC).",
+        "kc_associado": ["KC_Parametros"]
+    },
+    {
+        "id": "C073",
+        "nome": "Pimentão",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um parâmetro que vem em três cores: verde (funciona), amarelo (funciona, mas com warnings) e vermelho (não funciona e ateia fogo no seu PC).",
+        "kc_associado": ["KC_Parametros"]
+    },
+    {
+        "id": "C074",
+        "nome": "Cenoura Ralada",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um log detalhado de tudo que acontece no sistema. É laranja, confuso e 99% dele é completamente inútil.",
+        "kc_associado": ["KC_Logs"]
+    },
+    {
+        "id": "C075",
+        "nome": "Cenoura Ralada",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um log detalhado de tudo que acontece no sistema. É laranja, confuso e 99% dele é completamente inútil.",
+        "kc_associado": ["KC_Logs"]
+    },
+    {
+        "id": "C076",
+        "nome": "Milho",
+        "tipo": "Vegetal",
+        "texto_efeito": "O kernel do seu sistema. Cada grão é um processo. Um deles está tocando uma gaita de fole. Ninguém sabe por quê.",
+        "kc_associado": ["KC_Kernel", "KC_Processos"]
+    },
+    {
+        "id": "C077",
+        "nome": "Milho",
+        "tipo": "Vegetal",
+        "texto_efeito": "O kernel do seu sistema. Cada grão é um processo. Um deles está tocando uma gaita de fole. Ninguém sabe por quê.",
+        "kc_associado": ["KC_Kernel", "KC_Processos"]
+    },
+    {
+        "id": "C078",
+        "nome": "Milho",
+        "tipo": "Vegetal",
+        "texto_efeito": "O kernel do seu sistema. Cada grão é um processo. Um deles está tocando uma gaita de fole. Ninguém sabe por quê.",
+        "kc_associado": ["KC_Kernel", "KC_Processos"]
+    },
+    {
+        "id": "C079",
+        "nome": "Azeitona",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um pequeno token de autenticação. Se você a colocar no sanduíche, ganha acesso. Se a comer, sua sessão expira com um \"pop\" audível.",
+        "kc_associado": ["KC_Autenticacao"]
+    },
+    {
+        "id": "C080",
+        "nome": "Azeitona",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um pequeno token de autenticação. Se você a colocar no sanduíche, ganha acesso. Se a comer, sua sessão expira com um \"pop\" audível.",
+        "kc_associado": ["KC_Autenticacao"]
+    },
+    {
+        "id": "C081",
+        "nome": "Pepino",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um input refrescante e calmo. Tão calmo que ele pratica meditação e se recusa a processar qualquer request feito com urgência.",
+        "kc_associado": ["KC_Async", "KC_Prioridade"]
+    },
+    {
+        "id": "C082",
+        "nome": "Pepino",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um input refrescante e calmo. Tão calmo que ele pratica meditação e se recusa a processar qualquer request feito com urgência.",
+        "kc_associado": ["KC_Async", "KC_Prioridade"]
+    },
+    {
+        "id": "C083",
+        "nome": "Agrião",
+        "tipo": "Vegetal",
+        "texto_efeito": "Uma condição picante que só é verdadeira às terças-feiras, se estiver chovendo e Mercúrio estiver retrógrado.",
+        "kc_associado": ["KC_Condicional"]
+    },
+    {
+        "id": "C084",
+        "nome": "Agrião",
+        "tipo": "Vegetal",
+        "texto_efeito": "Uma condição picante que só é verdadeira às terças-feiras, se estiver chovendo e Mercúrio estiver retrógrado.",
+        "kc_associado": ["KC_Condicional"]
+    },
+    {
+        "id": "C085",
+        "nome": "Beterraba",
+        "tipo": "Vegetal",
+        "texto_efeito": "Altera a variável de ambiente e mancha seu código de roxo para sempre. Não tem volta. Aceite seu destino roxo.",
+        "kc_associado": ["KC_VariavelAmbiente"]
+    },
+    {
+        "id": "C086",
+        "nome": "Beterraba",
+        "tipo": "Vegetal",
+        "texto_efeito": "Altera a variável de ambiente e mancha seu código de roxo para sempre. Não tem volta. Aceite seu destino roxo.",
+        "kc_associado": ["KC_VariavelAmbiente"]
+    },
+    {
+        "id": "C087",
+        "nome": "Broto de Feijão",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um processo filho que nasce de uma chamada principal. Ele é fraco, mas se você deixar, ele cria milhares de outros brotos e domina sua memória RAM.",
+        "kc_associado": ["KC_ProcessoFilho"]
+    },
+    {
+        "id": "C088",
+        "nome": "Broto de Feijão",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um processo filho que nasce de uma chamada principal. Ele é fraco, mas se você deixar, ele cria milhares de outros brotos e domina sua memória RAM.",
+        "kc_associado": ["KC_ProcessoFilho"]
+    },
+    {
+        "id": "C089",
+        "nome": "Tomate Seco",
+        "tipo": "Vegetal",
+        "texto_efeito": "Dados cacheados com um sabor tão intenso que seu processador fica com preguiça e se recusa a buscar dados novos.",
+        "kc_associado": ["KC_Cache"]
+    },
+    {
+        "id": "C090",
+        "nome": "Tomate Seco",
+        "tipo": "Vegetal",
+        "texto_efeito": "Dados cacheados com um sabor tão intenso que seu processador fica com preguiça e se recusa a buscar dados novos.",
+        "kc_associado": ["KC_Cache"]
+    },
+    {
+        "id": "C091",
+        "nome": "Champignon",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um plugin que cresce em lugares escuros e úmidos do seu código. Ninguém sabe o que ele faz, mas removê-lo quebra tudo.",
+        "kc_associado": ["KC_Plugin"]
+    },
+    {
+        "id": "C092",
+        "nome": "Champignon",
+        "tipo": "Vegetal",
+        "texto_efeito": "Um plugin que cresce em lugares escuros e úmidos do seu código. Ninguém sabe o que ele faz, mas removê-lo quebra tudo.",
+        "kc_associado": ["KC_Plugin"]
+    },
+    {
+        "id": "C093",
+        "nome": "Cheddar Cremoso",
+        "tipo": "Condimento",
+        "texto_efeito": "Um molho dourado e cremoso que cobre os bugs, transformando-os em uma experiência surpreendentemente saborosa. O problema ainda está lá, mas agora ele é irresistivelmente delicioso.",
+        "kc_associado": ["KC_BugHiding"]
+    },
+    {
+        "id": "C094",
+        "nome": "Cheddar Cremoso",
+        "tipo": "Condimento",
+        "texto_efeito": "Um molho dourado e cremoso que cobre os bugs, transformando-os em uma experiência surpreendentemente saborosa. O problema ainda está lá, mas agora ele é irresistivelmente delicioso.",
+        "kc_associado": ["KC_BugHiding"]
+    },
+    {
+        "id": "C095",
+        "nome": "Cheddar Cremoso",
+        "tipo": "Condimento",
+        "texto_efeito": "Um molho dourado e cremoso que cobre os bugs, transformando-os em uma experiência surpreendentemente saborosa. O problema ainda está lá, mas agora ele é irresistivelmente delicioso.",
+        "kc_associado": ["KC_BugHiding"]
+    },
+    {
+        "id": "C096",
+        "nome": "Maionese",
+        "tipo": "Condimento",
+        "texto_efeito": "O array que une todos os ingredientes. É também um instrumento musical. (Não é, mas tente convencê-la disso).",
+        "kc_associado": ["KC_Array"]
+    },
+    {
+        "id": "C097",
+        "nome": "Maionese",
+        "tipo": "Condimento",
+        "texto_efeito": "O array que une todos os ingredientes. É também um instrumento musical. (Não é, mas tente convencê-la disso).",
+        "kc_associado": ["KC_Array"]
+    },
+    {
+        "id": "C098",
+        "nome": "Ketchup",
+        "tipo": "Condimento",
+        "texto_efeito": "Um patch de sabor. Se aplicado incorretamente, ele vaza para fora do sanduíche e mancha a stylesheet inteira de vermelho.",
+        "kc_associado": ["KC_CSS"]
+    },
+    {
+        "id": "C099",
+        "nome": "Ketchup",
+        "tipo": "Condimento",
+        "texto_efeito": "Um patch de sabor. Se aplicado incorretamente, ele vaza para fora do sanduíche e mancha a stylesheet inteira de vermelho.",
+        "kc_associado": ["KC_CSS"]
+    },
+    {
+        "id": "C100",
+        "nome": "Mostarda",
+        "tipo": "Condimento",
+        "texto_efeito": "Adiciona uma lógica condicional picante. Às vezes é um if, às vezes é um else, e às vezes apenas espirra no seu olho.",
+        "kc_associado": ["KC_Condicional"]
+    },
+    {
+        "id": "C101",
+        "nome": "Mostarda",
+        "tipo": "Condimento",
+        "texto_efeito": "Adiciona uma lógica condicional picante. Às vezes é um if, às vezes é um else, e às vezes apenas espirra no seu olho.",
+        "kc_associado": ["KC_Condicional"]
+    },
+    {
+        "id": "C102",
+        "nome": "Molho Barbecue",
+        "tipo": "Condimento",
+        "texto_efeito": "Um framework robusto que deixa seu código com um sabor defumado e difícil de manter. Vem com um chapéu de cowboy grátis.",
+        "kc_associado": ["KC_Framework"]
+    },
+    {
+        "id": "C103",
+        "nome": "Molho Barbecue",
+        "tipo": "Condimento",
+        "texto_efeito": "Um framework robusto que deixa seu código com um sabor defumado e difícil de manter. Vem com um chapéu de cowboy grátis.",
+        "kc_associado": ["KC_Framework"]
+    },
+    {
+        "id": "C104",
+        "nome": "Molho Barbecue",
+        "tipo": "Condimento",
+        "texto_efeito": "Um framework robusto que deixa seu código com um sabor defumado e difícil de manter. Vem com um chapéu de cowboy grátis.",
+        "kc_associado": ["KC_Framework"]
+    },
+    {
+        "id": "C105",
+        "nome": "Molho Pesto",
+        "tipo": "Condimento",
+        "texto_efeito": "Um script em Python, cheio de folhas e imports. Ele automatiza tarefas, como pedir pizza e culpar o estagiário pelos erros.",
+        "kc_associado": ["KC_Scripting"]
+    },
+    {
+        "id": "C106",
+        "nome": "Molho Pesto",
+        "tipo": "Condimento",
+        "texto_efeito": "Um script em Python, cheio de folhas e imports. Ele automatiza tarefas, como pedir pizza e culpar o estagiário pelos erros.",
+        "kc_associado": ["KC_Scripting"]
+    },
+    {
+        "id": "C107",
+        "nome": "Cream Cheese",
+        "tipo": "Condimento",
+        "texto_efeito": "Uma camada de abstração que esconde a complexidade. É tão eficaz que nem mesmo você sabe mais como seu próprio código funciona.",
+        "kc_associado": ["KC_Abstracao"]
+    },
+    {
+        "id": "C108",
+        "nome": "Cream Cheese",
+        "tipo": "Condimento",
+        "texto_efeito": "Uma camada de abstração que esconde a complexidade. É tão eficaz que nem mesmo você sabe mais como seu próprio código funciona.",
+        "kc_associado": ["KC_Abstracao"]
+    },
+    {
+        "id": "C109",
+        "nome": "Pimenta",
+        "tipo": "Condimento",
+        "texto_efeito": "Cuidado! Adicionar este parâmetro pode lançar uma exceção que só pode ser resolvida com um copo de leite e muito arrependimento.",
+        "kc_associado": ["KC_Excecao"]
+    },
+    {
+        "id": "C110",
+        "nome": "Pimenta",
+        "tipo": "Condimento",
+        "texto_efeito": "Cuidado! Adicionar este parâmetro pode lançar uma exceção que só pode ser resolvida com um copo de leite e muito arrependimento.",
+        "kc_associado": ["KC_Excecao"]
+    },
+    {
+        "id": "C111",
+        "nome": "Pimenta",
+        "tipo": "Condimento",
+        "texto_efeito": "Cuidado! Adicionar este parâmetro pode lançar uma exceção que só pode ser resolvida com um copo de leite e muito arrependimento.",
+        "kc_associado": ["KC_Excecao"]
+    },
+    {
+        "id": "C112",
+        "nome": "Azeite",
+        "tipo": "Condimento",
+        "texto_efeito": "Refatora o código, deixando-o mais limpo e escorregadio. Tão escorregadio que os bugs não conseguem mais se segurar e caem gritando.",
+        "kc_associado": ["KC_Refatoracao"]
+    },
+    {
+        "id": "C113",
+        "nome": "Azeite",
+        "tipo": "Condimento",
+        "texto_efeito": "Refatora o código, deixando-o mais limpo e escorregadio. Tão escorregadio que os bugs não conseguem mais se segurar e caem gritando.",
+        "kc_associado": ["KC_Refatoracao"]
+    },
+    {
+        "id": "C114",
+        "nome": "Azeite",
+        "tipo": "Condimento",
+        "texto_efeito": "Refatora o código, deixando-o mais limpo e escorregadio. Tão escorregadio que os bugs não conseguem mais se segurar e caem gritando.",
+        "kc_associado": ["KC_Refatoracao"]
+    },
+    {
+        "id": "C115",
+        "nome": "Sal",
+        "tipo": "Condimento",
+        "texto_efeito": "O commit final. Adicione demais e seu código fica salgado e agressivo. Adicione de menos e ele fica sem graça e sem deploy.",
+        "kc_associado": ["KC_Commit", "KC_VersionControl"]
+    },
+    {
+        "id": "C116",
+        "nome": "Sal",
+        "tipo": "Condimento",
+        "texto_efeito": "O commit final. Adicione demais e seu código fica salgado e agressivo. Adicione de menos e ele fica sem graça e sem deploy.",
+        "kc_associado": ["KC_Commit", "KC_VersionControl"]
+    },
+    {
+        "id": "C117",
+        "nome": "Manteiga",
+        "tipo": "Condimento",
+        "texto_efeito": "Suaviza a comunicação entre módulos. Se usada em excesso, os módulos ficam tão relaxados que tiram uma soneca e param de responder.",
+        "kc_associado": ["KC_Modulos"]
+    },
+    {
+        "id": "C118",
+        "nome": "Manteiga",
+        "tipo": "Condimento",
+        "texto_efeito": "Suaviza a comunicação entre módulos. Se usada em excesso, os módulos ficam tão relaxados que tiram uma soneca e param de responder.",
+        "kc_associado": ["KC_Modulos"]
+    },
+    {
+        "id": "C119",
+        "nome": "Molho Tártaro",
+        "tipo": "Condimento",
+        "texto_efeito": "Uma classe cheia de pequenos objetos e atributos. É um caos, mas é um caos organizado. Mais ou menos. Na verdade, é só caos.",
+        "kc_associado": ["KC_Classe", "KC_Encapsulamento"]
+    },
+    {
+        "id": "C120",
+        "nome": "Molho Tártaro",
+        "tipo": "Condimento",
+        "texto_efeito": "Uma classe cheia de pequenos objetos e atributos. É um caos, mas é um caos organizado. Mais ou menos. Na verdade, é só caos.",
+        "kc_associado": ["KC_Classe", "KC_Encapsulamento"]
+    },
+    {
+        "id": "C121",
+        "nome": "Molho Tártaro",
+        "tipo": "Condimento",
+        "texto_efeito": "Uma classe cheia de pequenos objetos e atributos. É um caos, mas é um caos organizado. Mais ou menos. Na verdade, é só caos.",
+        "kc_associado": ["KC_Classe", "KC_Encapsulamento"]
+    },
+    {
+        "id": "C122",
+        "nome": "Vinagre",
+        "tipo": "Condimento",
+        "texto_efeito": "Um debugger ácido que dissolve os bugs. Infelizmente, ele também dissolve, ocasionalmente, a própria feature que você estava tentando consertar.",
+        "kc_associado": ["KC_Debug"]
+    },
+    {
+        "id": "C123",
+        "nome": "Vinagre",
+        "tipo": "Condimento",
+        "texto_efeito": "Um debugger ácido que dissolve os bugs. Infelizmente, ele também dissolve, ocasionalmente, a própria feature que você estava tentando consertar.",
+        "kc_associado": ["KC_Debug"]
+    },
+    {
+        "id": "C124",
+        "nome": "Orégano",
+        "tipo": "Condimento",
+        "texto_efeito": "Pequenos snippets de código que você pode salpicar onde precisar. Eles parecem inofensivos, mas são secretamente controlados por um esquilo megalomaníaco.",
+        "kc_associado": ["KC_Snippets"]
+    },
+    {
+        "id": "C125",
+        "nome": "Orégano",
+        "tipo": "Condimento",
+        "texto_efeito": "Pequenos snippets de código que você pode salpicar onde precisar. Eles parecem inofensivos, mas são secretamente controlados por um esquilo megalomaníaco.",
+        "kc_associado": ["KC_Snippets"]
+    },
+    {
+        "id": "C126",
+        "nome": "Requeijão",
+        "tipo": "Condimento",
+        "texto_efeito": "Um container cremoso que garante que seu código rode em qualquer ambiente, desde que esse ambiente seja dentro de um pão de queijo.",
+        "kc_associado": ["KC_Container"]
+    },
+    {
+        "id": "C127",
+        "nome": "Requeijão",
+        "tipo": "Condimento",
+        "texto_efeito": "Um container cremoso que garante que seu código rode em qualquer ambiente, desde que esse ambiente seja dentro de um pão de queijo.",
+        "kc_associado": ["KC_Container"]
+    },
+    {
+        "id": "C128",
+        "nome": "Ordem Perfeita",
+        "tipo": "Ação",
+        "texto_efeito": "Compre as 3 próximas cartas do baralho. Dentre elas, coloque todos os ingredientes em sua área de resultado final na ordem em que foram comprados. Descarte as cartas que não forem ingredientes.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C129",
+        "nome": "Ordem Perfeita",
+        "tipo": "Ação",
+        "texto_efeito": "Compre as 3 próximas cartas do baralho. Dentre elas, coloque todos os ingredientes em sua área de resultado final na ordem em que foram comprados. Descarte as cartas que não forem ingredientes.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C130",
+        "nome": "Fluxo Contínuo",
+        "tipo": "Ação",
+        "texto_efeito": "Ao jogar esta carta, coloque um ingrediente da sua mão em sua área de resultado. Esta jogada não consome sua ação principal do turno.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C131",
+        "nome": "Fluxo Contínuo",
+        "tipo": "Ação",
+        "texto_efeito": "Ao jogar esta carta, coloque um ingrediente da sua mão em sua área de resultado. Esta jogada não consome sua ação principal do turno.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C132",
+        "nome": "Fluxo Contínuo",
+        "tipo": "Ação",
+        "texto_efeito": "Ao jogar esta carta, coloque um ingrediente da sua mão em sua área de resultado. Esta jogada não consome sua ação principal do turno.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C133",
+        "nome": "Fluxo Contínuo",
+        "tipo": "Ação",
+        "texto_efeito": "Ao jogar esta carta, coloque um ingrediente da sua mão em sua área de resultado. Esta jogada não consome sua ação principal do turno.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C134",
+        "nome": "Reorganizar Etapas",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha dois ingredientes que estão um ao lado do outro em sua área de resultado final e troque-os de posição.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C135",
+        "nome": "Reorganizar Etapas",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha dois ingredientes que estão um ao lado do outro em sua área de resultado final e troque-os de posição.",
+        "kc_associado": ["KC_Sequencia"],
+        "categoria_acao": "Sequência"
+    },
+    {
+        "id": "C136",
+        "nome": "Fundamento Sólido",
+        "tipo": "Ação",
+        "texto_efeito": "Use um Pão como base para novas ideias: descarte-o para comprar 2 cartas. Se não tiver ele, compre apenas 1 carta.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C137",
+        "nome": "Fundamento Sólido",
+        "tipo": "Ação",
+        "texto_efeito": "Use um Pão como base para novas ideias: descarte-o para comprar 2 cartas. Se não tiver ele, compre apenas 1 carta.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C138",
+        "nome": "Ingrediente Secreto",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha um oponente e fale o nome de uma carta de ingrediente específica (ex: \"Bacon\"). O oponente deve verificar sua mão. Se ele tiver a carta que você falou, pegue-a para sua mão! Caso contrário, nada acontece.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C139",
+        "nome": "Ingrediente Secreto",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha um oponente e fale o nome de uma carta de ingrediente específica (ex: \"Bacon\"). O oponente deve verificar sua mão. Se ele tiver a carta que você falou, pegue-a para sua mão! Caso contrário, nada acontece.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C140",
+        "nome": "Ingrediente Secreto",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha um oponente e fale o nome de uma carta de ingrediente específica (ex: \"Bacon\"). O oponente deve verificar sua mão. Se ele tiver a carta que você falou, pegue-a para sua mão! Caso contrário, nada acontece.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C141",
+        "nome": "Alternativa Saudável",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha uma carta de Proteína ou Pão em sua área de resultado final. Você pode substituí-la por uma carta de Vegetal da sua mão. Se o fizer, compre uma carta.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C142",
+        "nome": "Alternativa Saudável",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha uma carta de Proteína ou Pão em sua área de resultado final. Você pode substituí-la por uma carta de Vegetal da sua mão. Se o fizer, compre uma carta.",
+        "kc_associado": ["KC_Condicional"],
+        "categoria_acao": "Condição"
+    },
+    {
+        "id": "C143",
+        "nome": "Ciclo de Sabor",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha um ingrediente em sua área de resultado final. Você pode pegar 1 ou 2 cópias daquele ingrediente do baralho principal e colocá-las em sua mão. Após escolher a carta, embaralhe o baralho.",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C144",
+        "nome": "Ciclo de Sabor",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha um ingrediente em sua área de resultado final. Você pode pegar 1 ou 2 cópias daquele ingrediente do baralho principal e colocá-las em sua mão. Após escolher a carta, embaralhe o baralho.",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C145",
+        "nome": "Loop da Sorte",
+        "tipo": "Ação",
+        "texto_efeito": "Revele a carta do topo do baralho principal. Se for um ingrediente, você pode adicioná-lo à sua mão e repetir este efeito. O ciclo para quando você decidir parar ou quando a carta revelada não for um ingrediente (ação ou coringa).",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C146",
+        "nome": "Loop da Sorte",
+        "tipo": "Ação",
+        "texto_efeito": "Revele a carta do topo do baralho principal. Se for um ingrediente, você pode adicioná-lo à sua mão e repetir este efeito. O ciclo para quando você decidir parar ou quando a carta revelada não for um ingrediente (ação ou coringa).",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C147",
+        "nome": "Loop da Sorte",
+        "tipo": "Ação",
+        "texto_efeito": "Revele a carta do topo do baralho principal. Se for um ingrediente, você pode adicioná-lo à sua mão e repetir este efeito. O ciclo para quando você decidir parar ou quando a carta revelada não for um ingrediente (ação ou coringa).",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C148",
+        "nome": "For Each de Ingrediente",
+        "tipo": "Ação",
+        "texto_efeito": "Conte quantos tipos de ingredientes diferentes (Pão, Proteína, Vegetal, Condimento) que você tem em sua área de resultado final. Compre uma carta do baralho principal para cada tipo contado.",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C149",
+        "nome": "For Each de Ingrediente",
+        "tipo": "Ação",
+        "texto_efeito": "Conte quantos tipos de ingredientes diferentes (Pão, Proteína, Vegetal, Condimento) que você tem em sua área de resultado final. Compre uma carta do baralho principal para cada tipo contado.",
+        "kc_associado": ["KC_Loop"],
+        "categoria_acao": "Repetição / Loop"
+    },
+    {
+        "id": "C150",
+        "nome": "Valor Nulo",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte esta carta da sua mão a qualquer momento no seu turno para comprar 1 carta. Esta habilidade não gasta sua Ação Principal.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C151",
+        "nome": "Valor Nulo",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte esta carta da sua mão a qualquer momento no seu turno para comprar 1 carta. Esta habilidade não gasta sua Ação Principal.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C152",
+        "nome": "Valor Nulo",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte esta carta da sua mão a qualquer momento no seu turno para comprar 1 carta. Esta habilidade não gasta sua Ação Principal.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C153",
+        "nome": "Valor Nulo",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte esta carta da sua mão a qualquer momento no seu turno para comprar 1 carta. Esta habilidade não gasta sua Ação Principal.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C154",
+        "nome": "Valor Nulo",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte esta carta da sua mão a qualquer momento no seu turno para comprar 1 carta. Esta habilidade não gasta sua Ação Principal.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C155",
+        "nome": "Variáveis Trocadas",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha outro jogador. Cada um de vocês secretamente escolhe uma carta de ingrediente da própria mão. Em seguida, vocês trocam as cartas escolhidas.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C156",
+        "nome": "Variáveis Trocadas",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha outro jogador. Cada um de vocês secretamente escolhe uma carta de ingrediente da própria mão. Em seguida, vocês trocam as cartas escolhidas.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C157",
+        "nome": "Variáveis Trocadas",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha outro jogador. Cada um de vocês secretamente escolhe uma carta de ingrediente da própria mão. Em seguida, vocês trocam as cartas escolhidas.",
+        "kc_associado": ["KC_Variavel"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C158",
+        "nome": "Escopo Local",
+        "tipo": "Ação",
+        "texto_efeito": "Olhe as 2 primeiras cartas do baralho principal. Escolha uma delas e adicione-a à sua mão. Você pode jogar essa carta neste turno. No final do seu turno, se esta carta ainda estiver em sua mão, descarte-a.",
+        "kc_associado": ["KC_VariavelEscopo"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C159",
+        "nome": "Escopo Local",
+        "tipo": "Ação",
+        "texto_efeito": "Olhe as 2 primeiras cartas do baralho principal. Escolha uma delas e adicione-a à sua mão. Você pode jogar essa carta neste turno. No final do seu turno, se esta carta ainda estiver em sua mão, descarte-a.",
+        "kc_associado": ["KC_VariavelEscopo"],
+        "categoria_acao": "Variável"
+    },
+    {
+        "id": "C160",
+        "nome": "Sub-rotina de Preparo",
+        "tipo": "Ação",
+        "texto_efeito": "Coloque um ingrediente da sua mão em sua área de resultado final. Em seguida, compre 1 carta.",
+        "kc_associado": ["KC_Funcao"],
+        "categoria_acao": "Função"
+    },
+    {
+        "id": "C161",
+        "nome": "Sub-rotina de Preparo",
+        "tipo": "Ação",
+        "texto_efeito": "Coloque um ingrediente da sua mão em sua área de resultado final. Em seguida, compre 1 carta.",
+        "kc_associado": ["KC_Funcao"],
+        "categoria_acao": "Função"
+    },
+    {
+        "id": "C162",
+        "nome": "Sub-rotina de Preparo",
+        "tipo": "Ação",
+        "texto_efeito": "Coloque um ingrediente da sua mão em sua área de resultado final. Em seguida, compre 1 carta.",
+        "kc_associado": ["KC_Funcao"],
+        "categoria_acao": "Função"
+    },
+    {
+        "id": "C163",
+        "nome": "Chamada de Método",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha uma carta de Ação na pilha de descarte. O efeito daquela carta é ativado novamente, como se você a tivesse acabado de jogar da sua mão",
+        "kc_associado": ["KC_Funcao"],
+        "categoria_acao": "Função"
+    },
+    {
+        "id": "C164",
+        "nome": "Chamada de Método",
+        "tipo": "Ação",
+        "texto_efeito": "Escolha uma carta de Ação na pilha de descarte. O efeito daquela carta é ativado novamente, como se você a tivesse acabado de jogar da sua mão",
+        "kc_associado": ["KC_Funcao"],
+        "categoria_acao": "Função"
+    },
+    {
+        "id": "C165",
+        "nome": "Erro de Sintaxe",
+        "tipo": "Ação",
+        "texto_efeito": "Implante um BUG no código de um oponente! Escolha um jogador e coloque esta carta na área de resultado final dele. Ele não poderá declarar vitória até que remova este BUG com uma carta DEBUG.",
+        "kc_associado": ["KC_BugSintaxe"],
+        "categoria_acao": "Bug"
+    },
+    {
+        "id": "C166",
+        "nome": "Erro de Sintaxe",
+        "tipo": "Ação",
+        "texto_efeito": "Implante um BUG no código de um oponente! Escolha um jogador e coloque esta carta na área de resultado final dele. Ele não poderá declarar vitória até que remova este BUG com uma carta DEBUG.",
+        "kc_associado": ["KC_BugSintaxe"],
+        "categoria_acao": "Bug"
+    },
+    {
+        "id": "C167",
+        "nome": "Erro de Sintaxe",
+        "tipo": "Ação",
+        "texto_efeito": "Implante um BUG no código de um oponente! Escolha um jogador e coloque esta carta na área de resultado final dele. Ele não poderá declarar vitória até que remova este BUG com uma carta DEBUG.",
+        "kc_associado": ["KC_BugSintaxe"],
+        "categoria_acao": "Bug"
+    },
+    {
+        "id": "C168",
+        "nome": "Ponto de Interrupção",
+        "tipo": "Ação",
+        "texto_efeito": "Remova uma carta BUG da sua área de resultado final ou da área de resultado de outro jogador.",
+        "kc_associado": ["KC_Debug"],
+        "categoria_acao": "Debug"
+    },
+    {
+        "id": "C169",
+        "nome": "Ponto de Interrupção",
+        "tipo": "Ação",
+        "texto_efeito": "Remova uma carta BUG da sua área de resultado final ou da área de resultado de outro jogador.",
+        "kc_associado": ["KC_Debug"],
+        "categoria_acao": "Debug"
+    },
+    {
+        "id": "C170",
+        "nome": "Ponto de Interrupção",
+        "tipo": "Ação",
+        "texto_efeito": "Remova uma carta BUG da sua área de resultado final ou da área de resultado de outro jogador.",
+        "kc_associado": ["KC_Debug"],
+        "categoria_acao": "Debug"
+    },
+    {
+        "id": "C171",
+        "nome": "Limpeza de Cache",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte todas as cartas restantes da sua mão e, em seguida, compre o mesmo número de cartas que você descartou.",
+        "kc_associado": ["KC_Debug", "KC_Cache"],
+        "categoria_acao": "Debug"
+    },
+    {
+        "id": "C172",
+        "nome": "Limpeza de Cache",
+        "tipo": "Ação",
+        "texto_efeito": "Descarte todas as cartas restantes da sua mão e, em seguida, compre o mesmo número de cartas que você descartou.",
+        "kc_associado": ["KC_Debug", "KC_Cache"],
+        "categoria_acao": "Debug"
+    },
+    {
+        "id": "C173",
+        "nome": "Rascunho Estratégico",
+        "tipo": "Coringa",
+        "texto_efeito": "Inspecione as 3 cartas do topo do seu baralho. Escolha uma para sua mão e manipule o destino das outras duas, colocando-as no topo ou no fundo, na ordem que desejar.",
+        "kc_associado": ["KC_Pseudocodigo"],
+        "categoria_acao": "Pseudocódigo"
+    },
+    {
+        "id": "C174",
+        "nome": "Rascunho Estratégico",
+        "tipo": "Coringa",
+        "texto_efeito": "Inspecione as 3 cartas do topo do seu baralho. Escolha uma para sua mão e manipule o destino das outras duas, colocando-as no topo ou no fundo, na ordem que desejar.",
+        "kc_associado": ["KC_Pseudocodigo"],
+        "categoria_acao": "Pseudocódigo"
+    },
+    {
+        "id": "C175",
+        "nome": "Fluxo de Ideias",
+        "tipo": "Coringa",
+        "texto_efeito": "Execute o algoritmo: compre 2 cartas. para Cada \"Ingrediente\" encontrado permite testar uma nova funcionalidade: você pode descartar 1 carta da sua mão e comprar 1 nova.",
+        "kc_associado": ["KC_Pseudocodigo"],
+        "categoria_acao": "Pseudocódigo"
+    },
+    {
+        "id": "C176",
+        "nome": "Fluxo de Ideias",
+        "tipo": "Coringa",
+        "texto_efeito": "Execute o algoritmo: compre 2 cartas. para Cada \"Ingrediente\" encontrado permite testar uma nova funcionalidade: você pode descartar 1 carta da sua mão e comprar 1 nova.",
+        "kc_associado": ["KC_Pseudocodigo"],
+        "categoria_acao": "Pseudocódigo"
+    },
+    {
+        "id": "C177",
+        "nome": "Recurso Compartilhado",
+        "tipo": "Coringa",
+        "texto_efeito": "Colaboração em Equipe: Primeiro, cada jogador compra 1 carta. Em seguida, você pode pegar 1 Ingrediente da mão de um oponente.",
+        "kc_associado": ["KC_Biblioteca"],
+        "categoria_acao": "Biblioteca"
+    },
+    {
+        "id": "C178",
+        "nome": "Recurso Compartilhado",
+        "tipo": "Coringa",
+        "texto_efeito": "Colaboração em Equipe: Primeiro, cada jogador compra 1 carta. Em seguida, você pode pegar 1 Ingrediente da mão de um oponente.",
+        "kc_associado": ["KC_Biblioteca"],
+        "categoria_acao": "Biblioteca"
+    },
+    {
+        "id": "C179",
+        "nome": "API de Sabor",
+        "tipo": "Coringa",
+        "texto_efeito": "Busca Específica: Anuncie um tipo de Ingrediente. Em seguida, olhe as 4 cartas do topo do baralho. Pegue 1 carta do tipo anunciado para sua mão e descarte as outras. Se não encontrar nenhuma, descarte as 4 e compre 1 carta.",
+        "kc_associado": ["KC_Biblioteca", "KC_API"],
+        "categoria_acao": "Biblioteca"
+    },
+    {
+        "id": "C180",
+        "nome": "API de Sabor",
+        "tipo": "Coringa",
+        "texto_efeito": "Busca Específica: Anuncie um tipo de Ingrediente. Em seguida, olhe as 4 cartas do topo do baralho. Pegue 1 carta do tipo anunciado para sua mão e descarte as outras. Se não encontrar nenhuma, descarte as 4 e compre 1 carta.",
+        "kc_associado": ["KC_Biblioteca", "KC_API"],
+        "categoria_acao": "Biblioteca"
+    },
+    {
+        "id": "C181",
+        "nome": "Reengenharia Culinária",
+        "tipo": "Coringa",
+        "texto_efeito": "Otimização Máxima: Reinicie tudo. Descarte sua mão e sua área final. Compre 10 cartas. Em seguida, monte um novo sanduíche de até 7 cartas, ignorando completamente as regras. Fique com o restante sem descartar sobras no final do seu turno.",
+        "kc_associado": ["KC_Refatoracao"],
+        "categoria_acao": "Refatoração"
+    },
+    {
+        "id": "C182",
+        "nome": "Lançamento em Produção",
+        "tipo": "Coringa",
+        "texto_efeito": "Condição de Vitória Absoluta: Jogue esta carta apenas se tiver 4 ou mais ingredientes em sua área de resultado. O efeito desta carta não pode ser negado. O jogador que a jogou vence a partida imediatamente, ignorando todas as outras regras e condições.",
+        "kc_associado": ["KC_Deploy"],
+        "categoria_acao": "Deploy"
+    },
+    {
+        "id": "R183",
+        "nome": "Sanduíche de Sequência Simples",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Forma",
+            "Hambúrguer",
+            "Alface",
+            "Ketchup",
+            "Pão de Forma"
+        ],
+        "kc_associado": ["KC_Sequencia"]
+    },
+    {
+        "id": "R184",
+        "nome": "Sanduíche de Loop Infinito",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Croissant",
+            "Bacon",
+            "Cebola",
+            "Molho Barbecue",
+            "Croissant"
+        ],
+        "kc_associado": ["KC_LoopInfinito", "KC_Loop", "KC_Performance", "KC_Abstracao", "KC_Framework"]
+    },
+    {
+        "id": "R185",
+        "nome": "Sanduíche de Variável Global",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Leite",
+            "Mortadela",
+            "Tomate",
+            "Maionese",
+            "Pão de Leite"
+        ],
+        "kc_associado": ["KC_VariavelGlobal", "KC_Bug", "KC_Array"]
+    },
+    {
+        "id": "R186",
+        "nome": "Sanduíche de Função Recursiva",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Brioche",
+            "Almôndega",
+            "Cebola",
+            "Molho Pesto",
+            "Pão Brioche"
+        ],
+        "kc_associado": ["KC_FuncaoRecursiva", "KC_Encapsulamento", "KC_Abstracao", "KC_Scripting"]
+    },
+    {
+        "id": "R187",
+        "nome": "Sanduíche de Array Indexado",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Centeio",
+            "Salame",
+            "Alface",
+            "Azeite",
+            "Pão de Centeio"
+        ],
+        "kc_associado": ["KC_ArrayIndex", "KC_Array", "KC_Abstracao", "KC_Refatoracao"]
+    },
+    {
+        "id": "R188",
+        "nome": "Sanduíche de API Inútil",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Sírio",
+            "Tofu",
+            "Pepino",
+            "Cream Cheese",
+            "Pão Sírio"
+        ],
+        "kc_associado": ["KC_API", "KC_Backend", "KC_Undefined", "KC_Async", "KC_Abstracao"]
+    },
+    {
+        "id": "R189",
+        "nome": "Sanduíche de Depreciação",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Baguete",
+            "Peito de Peru",
+            "Tomate Seco",
+            "Sal",
+            "Baguete"
+        ],
+        "kc_associado": ["KC_Depreciacao", "KC_String", "KC_Cache", "KC_Commit"]
+    },
+    {
+        "id": "R190",
+        "nome": "Sanduíche de SQL Injection",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Ciabatta",
+            "Atum",
+            "Cebola",
+            "Vinagre",
+            "Ciabatta"
+        ],
+        "kc_associado": ["KC_InjecaoSQL", "KC_Seguranca", "KC_Criptografia", "KC_Abstracao", "KC_Debug"]
+    },
+    {
+        "id": "R191",
+        "nome": "Sanduíche de Refatoração",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Australiano",
+            "Carne Desfiada",
+            "Cenoura Ralada",
+            "Azeite",
+            "Pão Australiano"
+        ],
+        "kc_associado": ["KC_Refatoracao", "KC_Fullstack", "KC_Multithreading", "KC_Logs"]
+    },
+    {
+        "id": "R192",
+        "nome": "Sanduíche de Autenticação",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Batata",
+            "Azeitona",
+            "Presunto",
+            "Cheddar Cremoso",
+            "Pão de Batata"
+        ],
+        "kc_associado": ["KC_Autenticacao", "KC_MemoriaRAM", "KC_MemoryLeak", "KC_BugHiding"]
+    },
+    {
+        "id": "R193",
+        "nome": "Sanduíche de Multithreading",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Focaccia",
+            "Carne Desfiada",
+            "Milho",
+            "Molho Tártaro",
+            "Focaccia"
+        ],
+        "kc_associado": ["KC_Multithreading", "KC_Hardware", "KC_Kernel", "KC_Processos", "KC_Classe"]
+    },
+    {
+        "id": "R194",
+        "nome": "Sanduíche de Validação Frustrada",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão sem Glúten",
+            "Tofu",
+            "Rúcula",
+            "Pimenta",
+            "Pão sem Glúten"
+        ],
+        "kc_associado": ["KC_Validacao", "KC_API", "KC_Assert", "KC_Excecao"]
+    },
+    {
+        "id": "R195",
+        "nome": "Sanduíche de Legado Mágico",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Sírio",
+            "Rosbife",
+            "Champignon",
+            "Orégano",
+            "Pão Sírio"
+        ],
+        "kc_associado": ["KC_CodigoLegado", "KC_Backend", "KC_Plugin", "KC_Snippets"]
+    },
+    {
+        "id": "R196",
+        "nome": "Sanduíche de Cache Preguiçoso",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Forma",
+            "Tomate Seco",
+            "Pepino",
+            "Manteiga",
+            "Pão de Forma"
+        ],
+        "kc_associado": ["KC_Cache", "KC_Classe", "KC_Async", "KC_Modulos"]
+    },
+    {
+        "id": "R197",
+        "nome": "Sanduíche de Container Portátil",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Queijo",
+            "Requeijão",
+            "Almôndega",
+            "Sal",
+            "Pão de Queijo"
+        ],
+        "kc_associado": ["KC_Container", "KC_Encapsulamento", "KC_Commit"]
+    },
+    {
+        "id": "R198",
+        "nome": "Sanduíche de Exceção Inesperada",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Forma",
+            "Ovo Frito",
+            "Pimenta",
+            "Cheddar Cremoso",
+            "Pão de Forma"
+        ],
+        "kc_associado": ["KC_Excecao", "KC_Classe", "KC_VariavelEscopo", "KC_BugHiding"]
+    },
+    {
+        "id": "R199",
+        "nome": "Sanduíche de Variável Ambiente",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Forma",
+            "Beterraba",
+            "Alface",
+            "Ketchup",
+            "Pão de Forma"
+        ],
+        "kc_associado": ["KC_VariavelAmbiente", "KC_Classe", "KC_Abstracao", "KC_CSS"]
+    },
+    {
+        "id": "R200",
+        "nome": "Sanduíche de Processo Filho",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Forma",
+            "Broto de Feijão",
+            "Milho",
+            "Maionese",
+            "Pão de Forma"
+        ],
+        "kc_associado": ["KC_ProcessoFilho", "KC_Classe", "KC_Kernel", "KC_Array"]
+    },
+    {
+        "id": "R201",
+        "nome": "Sanduíche de Condição Astrológica",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Centeio",
+            "Agrião",
+            "Pimentão",
+            "Mostarda",
+            "Pão de Centeio"
+        ],
+        "kc_associado": ["KC_Condicional", "KC_ErrorHandling", "KC_Parametros"]
+    },
+    {
+        "id": "R202",
+        "nome": "Sanduíche de Cápsula Instável",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Brioche",
+            "Almôndega",
+            "Molho Tártaro",
+            "Pimenta",
+            "Pão Brioche"
+        ],
+        "kc_associado": ["KC_Encapsulamento", "KC_CodigoLegado", "KC_Classe", "KC_Excecao"]
+    },
+    {
+        "id": "R203",
+        "nome": "Sanduíche de Depuração Ácida",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Forma",
+            "Vinagre",
+            "Tomate",
+            "Cheddar Cremoso",
+            "Pão de Forma"
+        ],
+        "kc_associado": ["KC_Debug", "KC_Classe", "KC_Bug", "KC_BugHiding"]
+    },
+    {
+        "id": "R204",
+        "nome": "Sanduíche de Framework Robusto",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Australiano",
+            "Rosbife",
+            "Molho Barbecue",
+            "Cream Cheese",
+            "Pão Australiano"
+        ],
+        "kc_associado": ["KC_Framework", "KC_Fullstack", "KC_CodigoLegado", "KC_Abstracao"]
+    },
+    {
+        "id": "R205",
+        "nome": "Sanduíche de Snippets Controlados",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Centeio",
+            "Orégano",
+            "Salame",
+            "Azeite",
+            "Pão de Centeio"
+        ],
+        "kc_associado": ["KC_Snippets", "KC_ErrorHandling", "KC_ArrayIndex", "KC_Refatoracao"]
+    },
+    {
+        "id": "R206",
+        "nome": "Sanduíche de Performance Oleosa",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão Brioche",
+            "Bacon",
+            "Molho Barbecue",
+            "Manteiga",
+            "Pão Brioche"
+        ],
+        "kc_associado": ["KC_Performance", "KC_CodigoLegado", "KC_Framework", "KC_Modulos"]
+    },
+    {
+        "id": "R207",
+        "nome": "Sanduíche de Kernel Caótico",
+        "tipo": "Receita Final",
+        "ingredientes": [
+            "Pão de Batata",
+            "Milho",
+            "Linguiça",
+            "Molho Tártaro",
+            "Pão de Batata"
+        ],
+        "kc_associado": ["KC_Kernel", "KC_MemoriaRAM", "KC_Processos", "KC_Classe"]
+    }
+]

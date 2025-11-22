@@ -1,0 +1,37 @@
+# Ignorar arquivos e diretórios gerados automaticamente
+
+# Ambiente Virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Logs e Dados Gerados
+logs/
+analises/
+test_output/
+*.log
+*.csv
+*.jsonl
+
+# Python Bytecode Cache
+__pycache__/
+code_sandwich/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# IDEs e Editores
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Arquivos de Configuração Sensíveis (se houver)
+.env
+.flaskenv
